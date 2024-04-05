@@ -9,4 +9,4 @@
 ##### Purpose :
     API used to find the nutrition list for the food items
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/api/reactjs/food-nutrition/)
+#### Check out the live app [here](https://shyam-brs.github.io/food-nutrition/)
